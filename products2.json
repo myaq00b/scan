@@ -8,5 +8,10 @@
     "name": "test2",
     "productImage": "https://i.ibb.co/hFn1jS4P/1749157063-images.jpg",
     "barcodeImage": "https://barcodeapi.org/api/auto/93484938"
+  },
+  {
+    "name": "test3",
+    "productImage": "https://i.ibb.co/N6QF8Nmf/63860c3d94b0.jpg",
+    "barcodeImage": "https://barcodeapi.org/api/auto/1234567878"
   }
 ]
